@@ -1,7 +1,3 @@
-🔥 Perfect — here’s your **fully professional `README.md`** (GitHub-ready, formatted, stylish, and technical).
-You can copy-paste this directly into your repo root as `README.md`.
-
----
 
 ```markdown
 # 🤖 FormAutoGen — Google Form Automation with Python
