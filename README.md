@@ -39,7 +39,7 @@ FormAutoGen/
 ├── unit2_questions.json
 └── README.md
 
-````
+
 
 ---
 
@@ -55,9 +55,8 @@ FormAutoGen/
 | **unit2_questions.json** | Question bank for Unit 2 — automatically converted into a Google Form. |
 
 ---
-
+```
 ## 🧩 Example JSON Format
-
 Each unit file (like `unit1_questions.json`) follows this structure:
 
 ```json
@@ -167,8 +166,8 @@ You can easily:
 **Syed Raihaan S.**
 Cybersecurity Student | Developer | Automation Builder
 
-📧 **[syedraihaan0@gmail.com](mailto:syedraihaan0@gmail.com)**
-🌍 [LinkedIn](https://linkedin.com/in/syedraihaan) | [GitHub](https://github.com/syedraihaan)
+📧 **[syedraihaan.ms@gmail.com](mailto:syedraihaan0@gmail.com)**
+🌍 [LinkedIn]((https://www.linkedin.com/in/syed-raihaan-a03445291/)) | [GitHub]((https://github.com/syedrai/))
 
 ---
 
